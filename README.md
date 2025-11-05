@@ -9,9 +9,6 @@
 This is a web interface to [YOLOv8 object detection neural network](https://ultralytics.com/yolov8) 
 implemented on [Python](https://www.python.org) that uses a model to detect traffic lights and road signs on images.
 
-## Install
-
-* Clone this repository: `git clone git@github.com:AndreyGermanov/yolov8_pytorch_python.git`
 * Go to the root of cloned repository
 * Install dependencies by running `pip3 install -r requirements.txt`
 
